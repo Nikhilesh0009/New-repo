@@ -1,0 +1,23 @@
+Project Title: "Git Version Control Setup"
+
+Description : This project is used setup basic Git version, in this will know about setup instructions in detail and will create a repositroy and
+some commands.
+
+Setup instructions :
+1.Install Git
+2.Create a New Project Directory
+     open terminal and create directory
+     commands:
+     mkdir 
+     cd 
+3. Initialize git repository
+  by using command :  git init 
+
+Examples :
+
+Add the file  to stagging area 
+ command : git add <file.name>
+once file stagged now commit the change with a message:
+command : git commit -m "Message"
+After commit check file wheather added in repository or not by checking status
+command: git status
